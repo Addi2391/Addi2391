@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Addi2391
-- 👀 I’m interested in 3d modeling and animation
-- 🌱 I’m currently learning blender and unreal
-- 💞️ I’m looking to collaborate on freelance 3d modelling projects
+- 👀 I’m interested in AI.
+- 🌱 I’m currently using Codex and claude code to generate applications.
+- 💞️ I’m looking to collaborate for any learning experience in AI.
 - 📫 You can reach me by mail- adeetyasaraf@gmail.com 
 
 <!---
